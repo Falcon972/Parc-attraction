@@ -1,0 +1,3 @@
+C:/Users/jules/OneDrive/Bureau/ALLEGRO/spritesmr/cmake-build-debug/CMakeFiles/spritesmr.dir
+C:/Users/jules/OneDrive/Bureau/ALLEGRO/spritesmr/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jules/OneDrive/Bureau/ALLEGRO/spritesmr/cmake-build-debug/CMakeFiles/rebuild_cache.dir
